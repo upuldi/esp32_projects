@@ -7,8 +7,8 @@
 #include <WiFi.h>
 
 // Replace with your network credentials
-const char* ssid = "DOLU-WIFI-6";
-const char* password = "D01@1234";
+const char* ssid = "XXXXX";
+const char* password = "XXXXX";
 
 // Set web server port number to 80
 WiFiServer server(80);

@@ -14,13 +14,11 @@
 #include <HTTPClient.h>
 #include <Arduino_JSON.h>
 
-const char* ssid = "DOLU-WIFI-6";
-const char* password = "D01@1234";
+const char* ssid = "XXX";
+const char* password = "XXXXX";
 
 // Your Domain name with URL path or IP address with path
-String openWeatherMapApiKey = "320717f0637e02a3b3bb574fbf15708b";
-// Example:
-//String openWeatherMapApiKey = "320717f0637e02a3b3bb574fbf15708b";
+String openWeatherMapApiKey = "XXXXXX";
 
 // Replace with your country code and city
 String city = "Sydney";
